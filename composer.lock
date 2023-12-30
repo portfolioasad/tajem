@@ -1,0 +1,78 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f4aa5dea765266cd03f43833f503afb3",
+    "packages": [
+        {
+            "name": "nicolafranchini/venobox",
+            "version": "2.1.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nicolafranchini/VenoBox.git",
+                "reference": "101145aff4c155fd161c2cf1cdb1dc5ffb23d677"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nicolafranchini/VenoBox/zipball/101145aff4c155fd161c2cf1cdb1dc5ffb23d677",
+                "reference": "101145aff4c155fd161c2cf1cdb1dc5ffb23d677",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "component": {
+                    "scripts": [
+                        "dist/venobox.min.js"
+                    ],
+                    "styles": [
+                        "dist/venobox.min.css"
+                    ],
+                    "files": [
+                        "dist/venobox.min.js",
+                        "dist/venobox.min.css"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicola Franchini",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Responsive JavaScript modal window plugin, touch swipe gallery",
+            "keywords": [
+                "gallery",
+                "lightbox",
+                "modal",
+                "no-jquery",
+                "plugin",
+                "popup",
+                "responsive",
+                "swipe",
+                "touch",
+                "vanilla",
+                "window"
+            ],
+            "support": {
+                "issues": "https://github.com/nicolafranchini/VenoBox/issues",
+                "source": "https://github.com/nicolafranchini/VenoBox/releases"
+            },
+            "time": "2023-12-04T22:47:53+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

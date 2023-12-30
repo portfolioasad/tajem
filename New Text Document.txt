@@ -1,0 +1,14 @@
+   <div class="a_slider">
+   
+            </div>
+                  <div class="a_slider_text">
+                     <h3>Lorem ipsum dolor</h3>
+                     <span class="line_through">$100.00 </span>
+                     <span>$90.00 </span>
+                     <br>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa-solid fa-star"></i>
+                  </div>

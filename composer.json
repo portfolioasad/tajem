@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nicolafranchini/venobox": "^2.1"
+    }
+}
